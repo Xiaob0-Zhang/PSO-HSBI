@@ -1,0 +1,2 @@
+Namespace(T=100, device='cuda:0', b=64, epochs=100, j=4, data_dir='./MINIST_Data', out_dir='./logs', resume=None, amp=False, opt='adam', momentum=0.9, lr=0.001, tau=2.0)
+C:\Users\pc\Desktop\Tiny_DOA\Tiny-DOA\SNN-MINST-Test.py
