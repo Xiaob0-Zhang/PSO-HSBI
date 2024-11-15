@@ -1,6 +1,6 @@
  Two-Stage DOA Estimation of Sound Sources Based on Hierarchical Sparse Bayesian Inference 
  
- example1:PSO-HSBI
+ example1: PSO-HSBI
  
  example2: GSBI and HSBI in simulations on a public experimental platform:
  
