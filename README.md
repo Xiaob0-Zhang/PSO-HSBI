@@ -8,7 +8,7 @@
 
 HSBI+PSO
 
-![图片](https://github.com/user-attachments/assets/30c8562b-b0a5-4d0a-8e8d-baec91e694e4)
+![图片](https://github.com/user-attachments/assets/f83f181c-50cc-4475-8e40-52343ddeab0d)
 
 
 HSBI low SNR
