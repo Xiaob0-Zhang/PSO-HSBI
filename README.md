@@ -11,3 +11,5 @@ If you have any questions about the paper or the code, or if you are interested 
 PSO-HSBI
 
 ![图片](https://github.com/user-attachments/assets/f83f181c-50cc-4475-8e40-52343ddeab0d)
+
+The derivation should be Gaussian based on the normalization factor of the Gaussian distribution in the paper. But the coefficients are derived as 0. The constant term and constant coefficients are not involved in the iteration process.
